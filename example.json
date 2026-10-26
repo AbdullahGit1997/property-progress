@@ -1,0 +1,9 @@
+{
+  "property": "12 Sample Lane (fictional)",
+  "tasks": [
+    {"id": "instruction", "title": "Solicitor instructed", "owner": "Buyer", "due": "2026-10-19", "status": "complete"},
+    {"id": "searches", "title": "Search update received", "owner": "Solicitor", "due": "2026-10-23", "status": "pending"},
+    {"id": "mortgage", "title": "Mortgage offer received", "owner": "Broker", "due": "2026-10-28", "status": "pending"},
+    {"id": "enquiries", "title": "Enquiry update received", "owner": "Solicitor", "due": "2026-10-30", "status": "pending"}
+  ]
+}
